@@ -1,0 +1,53 @@
+h1 {
+	text-align: center;
+	color : blue;
+}
+
+ul.maListe li {
+	text-align: left;
+	color : black;
+}
+
+h4 {
+	margin-bottom: 0em;
+	padding-bottom: 0em;
+}
+
+ul {
+	margin-top: .5em;
+	padding-bottom: .5em;
+}
+
+h2.Sommaire {
+	margin-left: 1em;
+	margin-top: 2em;
+	margin-bottom: 0em;
+	padding:0em;
+}
+
+ul.Som li {
+	margin-top:0em;
+	padding-top: 0em;
+}
+
+div.aim {
+	border: 1px solid red;
+	margin : auto;
+	padding : 1em;
+	width : 70%;
+	font-size: 150%;
+	background-color: white;
+}
+
+div.classDiv 
+{
+	background-color: red;
+	height : 10em;
+	width : 30%;
+	margin : 1em;
+	display: block;
+}
+
+div.aim:hover{
+	color:red;
+}
