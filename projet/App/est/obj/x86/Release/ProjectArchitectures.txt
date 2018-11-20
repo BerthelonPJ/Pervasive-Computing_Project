@@ -1,0 +1,2 @@
+C:\Users\asus\Documents\est\App\est\est.csproj;x86
+C:\Users\asus\Documents\est\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
