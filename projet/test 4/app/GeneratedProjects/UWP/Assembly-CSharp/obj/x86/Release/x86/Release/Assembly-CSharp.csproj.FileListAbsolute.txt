@@ -1,0 +1,2 @@
+C:\Users\Hololens team\Documents\Unity\test 4\app\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Hololens team\Documents\Unity\test 4\app\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
