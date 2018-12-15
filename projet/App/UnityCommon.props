@@ -1,10 +1,9 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <UnityWSASolutionName>est</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\asus\Documents\est\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\asus\Documents\est\</UnityProjectDir>
+        <UnityWSASolutionName>test 4</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Hololens team\Documents\Unity\test 4\app\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Hololens team\Documents\Unity\backup\test 4\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 </Project>

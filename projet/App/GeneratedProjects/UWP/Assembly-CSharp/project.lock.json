@@ -15992,19 +15992,19 @@
     "UAP,Version=v10.0.10240": []
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\Hololens team\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Documents\\est\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Hololens team\\Documents\\Unity\\test 4\\app\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Users\\asus\\Documents\\est\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "C:\\Users\\asus\\Documents\\est\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Documents\\est\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+      "projectPath": "C:\\Users\\Hololens team\\Documents\\Unity\\test 4\\app\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "C:\\Users\\Hololens team\\Documents\\Unity\\test 4\\app\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "packagesPath": "C:\\Users\\Hololens team\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hololens team\\Documents\\Unity\\test 4\\app\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hololens team\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
