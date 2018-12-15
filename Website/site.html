@@ -23,7 +23,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/creative.min.css" rel="stylesheet">
-
+  <link href="css/site.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -84,6 +84,11 @@
           <h2 class="section-heading text-white">Your hands control the smart devices</h2>
           <hr class="light my-4">
           <p class="text-faded mb-4">Smart houses, personal assistants and connected devices are more and more part of our daily environnement. We proposed an alternative to voice controlled houses, by offering the ability to the user to view its devices through an holographic view, using mixed reality and hand gestures to control them.</p>
+          <div class="embedresize">
+            <div>
+              <div id="player"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -234,6 +239,26 @@
 <!-- Custom scripts for this template -->
 <script src="js/creative.min.js"></script>
 
+
+<script>
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '360',
+          width: '640',
+          videoId: '9QEiWKtXCbY'
+        });
+      }
+
+
+</script>
 </body>
 
 </html>
